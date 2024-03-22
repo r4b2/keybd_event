@@ -9,7 +9,7 @@ This library simulates the key press on a keyboard. It runs on Linux, Windows an
 - I have tested this code on my system and I don't find any errors. If you have a bug, please create an issue.
 
 
-### Example :
+### Example:
 ```go
 package main
 
