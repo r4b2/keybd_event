@@ -1,3 +1,3 @@
 module github.com/micmonay/keybd_event
 
-go 1.16
+go 1.22
